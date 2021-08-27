@@ -1,0 +1,10 @@
+POST  http://localhost:1234/posts
+Content-Type: application/json
+Authorization:ashfjshfsjh
+
+{
+    "title":"tam1234",
+    "description":"something",
+    "url":"google.com",
+    "status":"LEARNED"
+}
